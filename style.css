@@ -1,0 +1,78 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Segoe UI", sans-serif;
+}
+
+.main {
+  padding: 20px;
+}
+
+.main__title {
+  font-size: 32px;
+  text-align: center;
+  padding-bottom: 20px;
+}
+
+.gc1 {
+  display: grid;
+  grid-template-columns: 200px 1fr 2fr 1fr;
+  font-size: 24px;
+}
+
+.gc1__cell {
+  color: #222;
+  height: 100px;
+}
+
+.gc1__cell_01 {
+  background-color: aquamarine;
+}
+
+.gc1__cell_02 {
+  background-color: burlywood;
+}
+
+.gc1__cell_03 {
+  background-color: yellowgreen;
+}
+
+.gc1__cell_04 {
+  background-color: thistle;
+}
+
+.gc1__cell_05 {
+  background-color: darksalmon;
+}
+
+.gc1__cell_06 {
+  background-color: cadetblue;
+}
+
+.gc1__cell_07 {
+  background-color: violet;
+}
+
+.gc1__cell_08 {
+  background-color: turquoise;
+}
+
+.gc1__cell_09 {
+  background-color: thistle;
+}
+
+.gc1__cell_10 {
+  background-color: peachpuff;
+}
+
+.gc1__cell_11 {
+  background-color: tomato;
+}
+
+.gc1__cell_12 {
+  background-color: khaki;
+}
